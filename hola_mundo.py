@@ -1,0 +1,1 @@
+print("We have a place, a compound. e have a community. t's safe here.How many of you are there?Are any of them children?...")
